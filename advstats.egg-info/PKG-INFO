@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: advstats
+Version: 0+untagged.1.gddae18e.dirty
+Summary: Libarary for statisical analysis on non-standard sampling methods
+Home-page: https://pavanadapa.github.io
+Author: Pavan Kumar Adapa
+Author-email: pavan.adapa@uconn.edu
+License: MIT LICENSE
+Project-URL: Bug Tracker, https://github.com/pavanadapa/AdvStats/issues
+Project-URL: Documentation, https://pavanadapa.github.io
+Project-URL: Source Code, https://github.com/pavanadapa/AdvStats
+Platform: any
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# AdvStats
+
+Library for mathematical analysis of various sampling methods
