@@ -1,5 +1,6 @@
 from setuptools import setup
 import versioneer
+
 cmdclass = versioneer.get_cmdclass()
 
 if __name__ == "__main__":
