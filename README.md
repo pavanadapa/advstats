@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="https://pavanadapa.github.io/Images/AdvStats.png"><br>
+  <img src="https://pavanadapa.github.io/Images/AdvStatslogo.png"><br>
 </div>
 
 # Library for mathematical analysis of various sampling methods
 
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/pavanadapa/advstats/blob/main/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
-
-
 
 ## About
 
@@ -28,7 +25,7 @@ AdvStats is a python library for mathematical analysis of various sampling metho
 | Data Point 1       | Data Point 3       |
 | Data Point 2       | Data Point 4       |
 
-The required supporting can also just be manually entered. For more information look at the documentation. 
+The required supporting can also just be manually entered. For more information look at the documentation or the tests. 
 
 ## Installion
 
