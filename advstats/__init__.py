@@ -2,6 +2,9 @@ from . import _version
 
 __version__ = _version.get_versions()["version"]
 
-from . import _version
+from advstats.core.api import (
+    strat,
+    clust
+)
 
-__version__ = _version.get_versions()["version"]
+
